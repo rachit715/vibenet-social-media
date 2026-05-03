@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌟 Unified Mentor Social Media App
 
 A modern, fully-featured Instagram-like social media platform built with React, Node.js, Express, and MongoDB.
@@ -319,3 +320,6 @@ taskkill /PID <PID> /F
 **Developed with ❤️ using React & MERN Stack**
 
 Enjoy your social media experience! 🚀
+=======
+# vibenet-social-media
+>>>>>>> a93084f15f4521b6a6b89a9aeebefcbf6a9d960e
