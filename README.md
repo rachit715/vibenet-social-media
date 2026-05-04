@@ -5,22 +5,26 @@ A modern, fully-featured Instagram-like social media platform built with React, 
 ## ✨ Features Implemented
 
 ### 1. **Stories (24-Hour Expiry)**
+
 - Stories appear above the main feed
 - Each story has a 24-hour expiration timer
 - Users can view stories from other users
 - Story progress bar animation
 
 ### 2. **Smart Feed System**
+
 - Follow-based Feed: Only see posts from users you follow
 - Feeds filter automatically based on your following list
 - All posts are from your network
 
 ### 3. **Search Functionality**
+
 - User Search: Search for specific users by username
 - Exact username matching (case-insensitive)
 - Find and follow new users
 
 ### 4. **Profile Management**
+
 - Personal Profile Page
 - View all your uploaded photos in a grid
 - Like and comment counts displayed
@@ -28,33 +32,39 @@ A modern, fully-featured Instagram-like social media platform built with React, 
 - Stats: Posts, Followers, Following
 
 ### 5. **Dark & Light Mode**
+
 - Toggle between dark and light themes
 - Theme preference saved to localStorage
 - System-wide theme consistency
 
 ### 6. **Instagram-like UI**
+
 - Modern gradient backgrounds
 - Sidebar navigation
 - Responsive grid layouts for photos
 - Hover effects and animations
 
 ### 7. **Mobile Responsive Design**
+
 - Mobile: Hamburger menu, stacked layout
 - Tablet: Optimized grid and spacing
 - Desktop: Full sidebar, multi-column layout
 
 ### 8. **Advanced Post Features**
+
 - Create posts with image and caption
 - Like posts with instant feedback
 - Comment on posts
 - Delete your own posts
 
 ### 9. **User Following System**
+
 - Follow/Unfollow users
 - View user profiles
 - See follower/following counts
 
 ### 10. **Trending Page**
+
 - View most liked posts
 - Discover trending content
 
@@ -296,7 +306,8 @@ taskkill /PID <PID> /F
 
 **Developed with ❤️ using React & MERN Stack**
 
-Enjoy your social media experience! 🚀
-=======
+# Enjoy your social media experience! 🚀
+
 # vibenet-social-media
->>>>>>> a93084f15f4521b6a6b89a9aeebefcbf6a9d960e
+
+> > > > > > > a93084f15f4521b6a6b89a9aeebefcbf6a9d960e
