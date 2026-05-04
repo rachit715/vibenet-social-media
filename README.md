@@ -1,85 +1,62 @@
-<<<<<<< HEAD
-# 🌟 Unified Mentor Social Media App
+# 🌟 Social Media App
 
 A modern, fully-featured Instagram-like social media platform built with React, Node.js, Express, and MongoDB.
 
 ## ✨ Features Implemented
 
 ### 1. **Stories (24-Hour Expiry)**
-
 - Stories appear above the main feed
 - Each story has a 24-hour expiration timer
 - Users can view stories from other users
 - Story progress bar animation
-- Story metadata (username, avatar, time)
 
 ### 2. **Smart Feed System**
-
-- **Follow-based Feed**: Only see posts from users you follow
+- Follow-based Feed: Only see posts from users you follow
 - Feeds filter automatically based on your following list
-- No unfollowed users' posts in your feed
 - All posts are from your network
 
 ### 3. **Search Functionality**
-
-- **User Search Only**: Search for specific users by username
+- User Search: Search for specific users by username
 - Exact username matching (case-insensitive)
 - Find and follow new users
-- Search results redirect to user profiles
 
 ### 4. **Profile Management**
-
-- **Personal Profile Page** (`/profile`)
+- Personal Profile Page
 - View all your uploaded photos in a grid
-- Click photos to view in a modal
 - Like and comment counts displayed
-- Follow/Unfollow other users from their profiles
+- Follow/Unfollow other users
 - Stats: Posts, Followers, Following
 
 ### 5. **Dark & Light Mode**
-
 - Toggle between dark and light themes
 - Theme preference saved to localStorage
-- Smooth transitions between modes
-- All components support both themes
 - System-wide theme consistency
 
 ### 6. **Instagram-like UI**
-
 - Modern gradient backgrounds
 - Sidebar navigation
 - Responsive grid layouts for photos
-- Clean typography and spacing
 - Hover effects and animations
 
 ### 7. **Mobile Responsive Design**
-
-- **Mobile**: Hamburger menu, stacked layout
-- **Tablet**: Optimized grid and spacing
-- **Desktop**: Full sidebar, multi-column layout
-- Touch-friendly buttons and inputs
-- Adaptive images and typography
+- Mobile: Hamburger menu, stacked layout
+- Tablet: Optimized grid and spacing
+- Desktop: Full sidebar, multi-column layout
 
 ### 8. **Advanced Post Features**
-
 - Create posts with image and caption
 - Like posts with instant feedback
 - Comment on posts
 - Delete your own posts
-- View post engagement (likes, comments)
 
 ### 9. **User Following System**
-
 - Follow/Unfollow users
 - View user profiles
 - See follower/following counts
-- Filter feed by following list
 
 ### 10. **Trending Page**
-
 - View most liked posts
 - Discover trending content
-- See top posts from all followed users
 
 ## 📦 Tech Stack
 
